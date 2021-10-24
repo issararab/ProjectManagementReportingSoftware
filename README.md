@@ -2,6 +2,11 @@
 
 Management reporting scripts. For each python script to work, one has to edit the Config file for the corresponding script with the necessary credentials.
 
+## Project Management web services
+[ClickUp](https://clickup.com/)
+[TimeButler](https://timebutler.de/)
+[Toggl](https://toggl.com/track/)
+
 ### The directory structure
 
 ```
