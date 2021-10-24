@@ -1,0 +1,9 @@
+{
+    "user_email" : "",
+    "token" : "",
+    "current_fiscal_year" : true,
+    "fiscal_year" : 2022,
+    "KVA" : [210232],
+    "Fiscal_month": "07/2021",
+    "__comment1__": "Month Format for Fiscal Month ----  07/2021 or default -- Last Month"
+} 

@@ -1,0 +1,29 @@
+{
+	"token" : "",
+    "month" : 10,
+    "year" : 2020,
+	"closed_tasks": false,
+	"folder": "All",
+	"list": "All",
+	"output_file":"ClickUP_output.xlsx",
+	"fields":[
+		{"Team": true}
+		,{"Space": true}
+		,{"Folder": true}
+		,{"List": true}
+		,{"Task ID": true}
+		,{"Task": true}
+		,{"Sub-Task": true}
+		,{"Tags": true}
+		,{"Priority": true}
+		,{"Status": true}
+		,{"Assignees": true} 
+		,{"Due date": true}
+		,{"Status modified date": true}
+	],
+	"folders_kva":[
+		{"folder name": "Analytics Retainer",
+		"kva_nr":}
+	]
+	
+}

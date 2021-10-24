@@ -1,0 +1,7 @@
+{
+	"url" : "https://timebutler.de/api/v1/",
+    "token" : "", 
+    "year" : 2021,
+	"abwesenheiten_output_file":"abwesenheiten.xlsx",
+	"konto_output_file":"konto.xlsx"
+} 
